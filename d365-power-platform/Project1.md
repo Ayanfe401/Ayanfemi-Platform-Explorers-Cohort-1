@@ -36,7 +36,8 @@ Power Automate can streamline approvals, notifications, and data syncing, reduci
 
 *Limitations:*  
 - Some advanced automation scenarios may require premium connectors.  
-- Complex workflows might require additional customization using Power Automate Desktop.  
+- Complex workflows might require additional customization using Power Automate Desktop.  ![Screenshot 2025-03-20 223421](https://github.com/user-attachments/assets/5cc564ae-1ab9-400a-8ea1-099d9616ab87)
+
 
 ---
 
@@ -66,7 +67,8 @@ Dataverse acts as a central database for securely storing and managing company d
 
 *Limitations:*  
 - Dataverse storage costs can increase with high data volume.  
-- Requires careful data governance policies for optimal security.  
+- Requires careful data governance policies for optimal security.  ![Screenshot 2025-03-20 223513](https://github.com/user-attachments/assets/a42cb6e4-eefd-4072-8d52-43c2c7ff8480)
+
 
 ---
 
