@@ -9,6 +9,7 @@ To address the company's needs, the following Microsoft Power Platform tools sho
 - *Power Automate* – To automate workflows, notifications, and data syncing.  
 - *Power BI* – For reporting, analytics, and data visualization.  
 - *Dataverse* – To store structured and secure business data.  
+![Screenshot 2025-03-20 220949](https://github.com/user-attachments/assets/3e367a80-c52e-4473-a579-04b77115c2dc)
 
 ## *2. Justification and Implementation of Each Tool*  
 
