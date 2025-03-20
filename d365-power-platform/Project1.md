@@ -51,6 +51,7 @@ Power BI provides real-time insights and analytics, helping management make data
 *Limitations:*  
 - Power BI requires proper data modeling to avoid performance issues.  
 - Some advanced analytics features require a Power BI Pro license.  
+![Screenshot 2025-03-20 223153](https://github.com/user-attachments/assets/cc8a9d4d-d292-4995-b422-992d5f918e33)
 
 ---
 
