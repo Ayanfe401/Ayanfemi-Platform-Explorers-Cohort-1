@@ -9,7 +9,6 @@ To address the company's needs, the following Microsoft Power Platform tools sho
 - *Power Automate* – To automate workflows, notifications, and data syncing.  
 - *Power BI* – For reporting, analytics, and data visualization.  
 - *Dataverse* – To store structured and secure business data.  
-![Screenshot 2025-03-20 220949](https://github.com/user-attachments/assets/3e367a80-c52e-4473-a579-04b77115c2dc)
 
 ## *2. Justification and Implementation of Each Tool*  
 
@@ -36,8 +35,7 @@ Power Automate can streamline approvals, notifications, and data syncing, reduci
 
 *Limitations:*  
 - Some advanced automation scenarios may require premium connectors.  
-- Complex workflows might require additional customization using Power Automate Desktop.  ![Screenshot 2025-03-20 223421](https://github.com/user-attachments/assets/5cc564ae-1ab9-400a-8ea1-099d9616ab87)
-
+- Complex workflows might require additional customization using Power Automate Desktop.  
 
 ---
 
@@ -52,7 +50,6 @@ Power BI provides real-time insights and analytics, helping management make data
 *Limitations:*  
 - Power BI requires proper data modeling to avoid performance issues.  
 - Some advanced analytics features require a Power BI Pro license.  
-![Screenshot 2025-03-20 223153](https://github.com/user-attachments/assets/cc8a9d4d-d292-4995-b422-992d5f918e33)
 
 ---
 
@@ -67,8 +64,7 @@ Dataverse acts as a central database for securely storing and managing company d
 
 *Limitations:*  
 - Dataverse storage costs can increase with high data volume.  
-- Requires careful data governance policies for optimal security.  ![Screenshot 2025-03-20 223513](https://github.com/user-attachments/assets/a42cb6e4-eefd-4072-8d52-43c2c7ff8480)
-
+- Requires careful data governance policies for optimal security.  
 
 ---
 
