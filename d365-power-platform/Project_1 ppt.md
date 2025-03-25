@@ -62,8 +62,7 @@ Let’s walk through how each tool plays a role using a simple scenario.
 Power Apps is a tool that lets us build custom, interactive applications without needing to write complex code. Think of it as designing digital forms that are smart and connected.
 
 #### *How It Works for Omega: The Order Management App (Canvas App)*
-
-- *Scenario:*  
+ 
   When a customer places an order via Omega’s website, they are directed to a user-friendly *Order Management App* built with Power Apps.  
   - *Order Entry:* The sales team or even the customer directly enters order details (product, quantity, delivery options) into the app.  
   - *Instant Data Capture:* As soon as the order is submitted, the details are stored automatically in *Dataverse*.  
@@ -80,8 +79,7 @@ Power Apps is a tool that lets us build custom, interactive applications without
 Power Automate works like a digital assistant that takes over repetitive tasks. It ensures that every part of the process happens exactly when it should, without manual intervention.
 
 #### *How It Works for Omega: Automating Workflow Tasks*
-
-- *Scenario:*  
+ 
   Imagine an order is just logged in the Order Management App.
   - *Immediate Confirmation:* Power Automate sends a confirmation email to the customer, echoing all the order details.
   - *Notifications:* It simultaneously alerts the inventory manager (via a message in Microsoft Teams) that a new order has been placed.
@@ -98,8 +96,7 @@ Power Automate works like a digital assistant that takes over repetitive tasks. 
 Power BI is like your trusted business dashboard. It takes the data stored in Dataverse and turns it into visual reports—charts, graphs, and dashboards—which make understanding trends and performance simple.
 
 #### *How It Works for Omega: Driving Decisions with Dashboards*
-
-- *Scenario:*  
+ 
   The CEO or any manager can log into a Power BI dashboard and instantly see:
   - *Sales Trends:* How many orders were placed this month, which products are most popular, and seasonal sales patterns.
   - *Inventory Status:* Which items are low on stock and need reordering.
@@ -117,7 +114,6 @@ Dataverse serves as the central database your secure “vault” where every pie
 
 #### *How It Works for Omega: Centralizing All Data*
 
-- *Scenario:*  
   When a customer order is placed, all the order details, customer information, and inventory status are immediately stored in Dataverse.
   - *Centralization:* Instead of multiple, siloed spreadsheets, every department (sales, inventory, finance) accesses the same accurate, up-to-date data.
   - *Security:* Role-based access is implemented so only authorized personnel (like IT or Finance) can access sensitive data.
