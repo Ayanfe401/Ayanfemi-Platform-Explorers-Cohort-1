@@ -188,10 +188,9 @@ While Microsoft Power Platform is powerful, every system comes with a few challe
 4. *Dashboard Setup:*  
    Create a Power BI dashboard that provides real-time insights into sales performance, customer trends, and inventory levels.
 
-By choosing Microsoft Power Platform with Dataverse as the secure, central foundation Omega Manufacturing will modernize its operations, eliminate manual inefficiencies, and scale confidently into the future. This solution isn’t just for large tech companies; it’s designed to be accessible for businesses of all sizes and technical levels.
+Choosing Microsoft Power Platform with Dataverse as the secure, central foundation Omega Manufacturing will modernize its operations, eliminate manual inefficiencies, and scale confidently into the future. This solution isn’t just for large tech companies; it’s designed to be accessible for businesses of all sizes and technical levels.
 
 
 
-[Power_Platform_Use_Case[1].pptx](https://github.com/user-attachments/files/19447924/Power_Platform_Use_Case.1.pptx)
-
+[Power_Platform_Use_Case[1].pptx](https://github.com/user-attachments/files/19451971/Power_Platform_Use_Case.1.pptx)
 
