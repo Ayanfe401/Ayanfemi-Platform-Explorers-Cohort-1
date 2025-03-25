@@ -186,8 +186,9 @@ While Microsoft Power Platform is powerful, every system comes with a few challe
 
 Choosing Microsoft Power Platform with Dataverse as the secure, central foundation Omega Manufacturing will modernize its operations, eliminate manual inefficiencies, and scale confidently into the future. This solution isn’t just for large tech companies; it’s designed to be accessible for businesses of all sizes and technical levels.
 
-[Ayanfe.pptx](https://github.com/user-attachments/files/19453423/Ayanfe.pptx)
 
 
 
+
+[Ayanfe.pptx](https://github.com/user-attachments/files/19453599/Ayanfe.pptx)
 
