@@ -192,5 +192,6 @@ By choosing Microsoft Power Platform with Dataverse as the secure, central found
 
 
 
-[Power_Platform_Use_Case[1].pptx](https://github.com/user-attachments/files/19447136/Power_Platform_Use_Case.1.pptx)
+[Power_Platform_Use_Case[1].pptx](https://github.com/user-attachments/files/19447924/Power_Platform_Use_Case.1.pptx)
+
 
