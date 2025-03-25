@@ -1,4 +1,4 @@
-# Power Platform Use Case: Transforming Customer Order & Inventory Management at Omega Manufacturing
+[Power_Platform_Use_Case[1].pptx](https://github.com/user-attachments/files/19447047/Power_Platform_Use_Case.1.pptx)# Power Platform Use Case: Transforming Customer Order & Inventory Management at Omega Manufacturing
 
 ## 1. Introduction
 
@@ -190,6 +190,6 @@ While Microsoft Power Platform is powerful, every system comes with a few challe
 
 By choosing Microsoft Power Platform with Dataverse as the secure, central foundation Omega Manufacturing will modernize its operations, eliminate manual inefficiencies, and scale confidently into the future. This solution isn’t just for large tech companies; it’s designed to be accessible for businesses of all sizes and technical levels.
 
+[Power_Platform_Use_Case[1].pptx](https://github.com/user-attachments/files/19447041/Power_Platform_Use_Case.1.pptx)
 
 
-Power_Platform_Use_Case[1].pptx](https://github.com/user-attachments/files/19445535/Power_Platform_Use_Case.1.pptx)
